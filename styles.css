@@ -44,6 +44,7 @@ section {
 #container .scroll {
   background: #13492d;
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: space-around;
   width: fit-content;
